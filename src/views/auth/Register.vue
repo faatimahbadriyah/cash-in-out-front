@@ -1,5 +1,5 @@
 <template>
-  <div class="container">Welcome to the Cashinout App</div>
+  <div class="container">Register</div>
 </template>
 
 <script>

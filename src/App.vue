@@ -1,9 +1,14 @@
 <template>
+  <navbar />
+  <div class="mt-10"></div>
   <router-view />
 </template>
 
 <script>
-export default {};
+import Navbar from "@/components/Navbar";
+export default {
+  components: { Navbar },
+};
 </script>
 
 <style>
